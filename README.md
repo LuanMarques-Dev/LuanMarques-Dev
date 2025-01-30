@@ -1,7 +1,7 @@
 ## Olá eu sou o Luan Marques
 
 - 🔭 Hoje eu trabalho como suporte de T.I.
-- 🌱 Estudo HTML, CSS, JavaScript, TypeScript, React.js e Node.js, e pretendo me tornar full stack.
+- 🌱 Comecei minha jornada estudando para me tornar um desenvolvedor Full-Stack, mas ao explorar mais sobre o universo da ciência de dados, me apaixonei pela área. Decidi então redirecionar meus estudos e agora estou me dedicando a aprender Python, com o objetivo de me tornar um cientista de dados. Estou focado em dominar as tecnologias essenciais para essa área e explorar as possibilidades que a inteligência artificial pode oferecer na resolução de problemas reais.
 
 <div>
   <a href="https://github.com/LuanMarques-Dev">
