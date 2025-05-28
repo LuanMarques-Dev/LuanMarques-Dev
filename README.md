@@ -5,7 +5,7 @@
 
   <h2>🚀 Sobre Mim</h2>
   <ul>
-    <li>🌱 Atualmente estudando <strong>React</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Tailwind CSS</strong>, e <strong>React Native</strong>.</li>
+    <li>🌱 Atualmente estudando <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.</li>
     <li>💡 Apaixonado por transformar ideias em interfaces visuais impactantes.</li>
     <li>💪 Comprometido com o aprendizado contínuo e o aprimoramento das minhas habilidades.</li>
   </ul>
@@ -15,11 +15,13 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<!--
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/UX/UI-5A67D8?style=for-the-badge&logo=figma&logoColor=white" />
+    -->
   </div>
 
   <h2>🌐 Redes Sociais</h2>
