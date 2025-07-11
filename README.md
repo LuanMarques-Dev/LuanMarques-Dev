@@ -1,7 +1,8 @@
 <div class="container">
   <h1>👋 Olá! Eu sou o Luan Marques</h1>
 
- <p>Depois de explorar diferentes áreas da programação — como Full Stack e DevOps — percebi que minha verdadeira motivação está em criar experiências ricas e interativas para os usuários. Por isso, tenho me dedicado ao domínio das tecnologias modernas de front-end, sempre buscando desenvolver interfaces intuitivas e funcionais.</p> <p>Com cada projeto, avanço no meu objetivo de me tornar um <strong>Engenheiro de Software</strong>, capaz de unir criatividade, técnica e propósito para entregar soluções que fazem a diferença.</p>
+ <p>Tenho 25 anos e sou formado em Análise e Desenvolvimento de Sistemas. Já explorei várias áreas da tecnologia — como Front-end, Banco de Dados e até DevOps — mas foi em Engenharia de Software que realmente me encontrei.</p>
+<p></p>Descobrir que é possível tirar uma ideia do papel e transformá-la em algo real com programação foi o que me fez me apaixonar de vez por essa área.</p>
  
   <h2>🚀 Sobre Mim</h2>
   <ul>
