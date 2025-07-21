@@ -16,6 +16,9 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
 <!--
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -35,12 +38,11 @@
 
   <h2>📊 GitHub Stats</h2>
   <div class="github-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuanMarques-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMarques-Dev&layout=compact&langs_count=16&theme=tokyonight" />
   </div>
 
   <h2>🎯 Meu Objetivo</h2>
-  <p>Me tornar um <strong>Front-end Engineering</strong> altamente qualificado, criando interfaces modernas e intuitivas que ofereçam a melhor experiência ao usuário.</p>
+  <p>Me tornar um <strong>Engenhairo de Software</strong> altamente qualificado, criando interfaces modernas e intuitivas que ofereçam a melhor experiência ao usuário.</p>
 </div>
 
 </body>
