@@ -6,7 +6,7 @@
  
   <h2>🚀 Sobre Mim</h2>
   <ul>
-    <li>🌱 Atualmente estudando <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.</li>
+    <li>🌱 Atualmente estudando <strong>JavaScript</strong>, <strong>NodeJs</strong>, <strong>TypeScript</strong>.</li>
     <li>💡 Apaixonado por transformar ideias em interfaces visuais impactantes.</li>
     <li>💪 Comprometido com o aprendizado contínuo e o aprimoramento das minhas habilidades.</li>
   </ul>
