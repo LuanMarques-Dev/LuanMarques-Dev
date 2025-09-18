@@ -6,7 +6,7 @@
  
   <h2>🚀 Sobre Mim</h2>
   <ul>
-    <li>🌱 Atualmente estudando <strong>JavaScript</strong>, <strong>NodeJs</strong> e <strong>TypeScript</strong>.</li>
+    <li>🌱 Atualmente estudando <strong>TypeScript</strong> e <strong>NextJs</strong>.</li>
     <li>💡 Apaixonado por transformar ideias em interfaces visuais impactantes.</li>
     <li>💪 Comprometido com o aprendizado contínuo e o aprimoramento das minhas habilidades.</li>
   </ul>
