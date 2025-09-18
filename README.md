@@ -36,11 +36,6 @@
     <a href="https://www.linkedin.com/in/luan-marques-pereira-125852205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 
-  <h2>📊 GitHub Stats</h2>
-  <div class="github-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMarques-Dev&layout=compact&langs_count=16&theme=tokyonight" />
-  </div>
-
   <h2>🎯 Meu Objetivo</h2>
   <p>Me tornar um <strong>Engenhairo de Software</strong> altamente qualificado, criando interfaces modernas e intuitivas que ofereçam a melhor experiência ao usuário.</p>
 </div>
